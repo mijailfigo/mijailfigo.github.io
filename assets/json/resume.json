@@ -5,7 +5,7 @@
     "image": "",
     "email": "mfigon(at)utu.fi",
     "phone": "",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://mijailfigo.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "adress": "",
@@ -26,6 +26,15 @@
     {
       "name": "INVEST Research Flagship Centre | University of Turku",
       "position": "Project manager, Mapineq",
+      "url": "https://mapineq.eu/project-management-and-communication/",
+      "startDate": "2023-01-01",
+      "endDate": "present",
+      "summary": "",
+      "highlights": ["Project management", "Communication"] 
+    }
+     {
+      "name": "Diversity & Inclusion Office | Erasmus University Rotterdam",
+      "position": "Postdoctoral researcher",
       "url": "https://mapineq.eu/project-management-and-communication/",
       "startDate": "2023-01-01",
       "endDate": "present",
