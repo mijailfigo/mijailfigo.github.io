@@ -222,6 +222,8 @@ exclude:
   - blog.md
   - teaching.md
   - dropdown.md
+  - repositories.md
+  - news.md
 keep_files:
   - CNAME
   - .nojekyll
