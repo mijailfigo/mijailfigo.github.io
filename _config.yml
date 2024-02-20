@@ -475,5 +475,3 @@ jsonresume:
   - interests
   - references
 
-  exclude: 
-  - profiles.md
