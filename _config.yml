@@ -474,3 +474,6 @@ jsonresume:
   - languages
   - interests
   - references
+
+  exclude: 
+  - profiles.md
