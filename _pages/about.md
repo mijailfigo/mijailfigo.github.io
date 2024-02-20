@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a>. Sociologist, PhD. Project manager, Mapineq.
+subtitle: <a href='#'></a>Sociologist, PhD.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>mfigon(at)utu.fi</p>
+    <p></p>
+    <p></p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello world!? I am a sociologist interested in the stratification of gains and risks of student employment in higher education. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello world!? I am a sociologist interested on how student employment at university shapes students' life courses. Since January 2013, I am the Project manager of [Mapineq](https://mapineq.eu) – Mapping inequalities through the life course, a Horizon Europe project coordinated by the University of Turku in Finland. I previously worked as postdoctoral researcher at the Erasmus University Rotterdam in the Netherlands and the University Libre of Brussels in Belgium. I am also a Postdoctoral Fellow at the Institute for Advanced Studies in Venna, Austria.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
