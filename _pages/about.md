@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a>"Sociologist, PhD."
+subtitle: <a href='#'></a>Sociologist, PhD.
 
 profile:
   align: right
