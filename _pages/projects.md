@@ -5,7 +5,7 @@ permalink: /projects/
 description: Coming soon...
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" | slice: 0, 2 %}
+{% assign sorted_projects = site.projects | sort: "importance" | slice: 0, 0 %}
 
   <!-- Generate cards for each project -->
 
