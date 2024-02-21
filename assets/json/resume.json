@@ -6,7 +6,7 @@
     "email": "mfigon(at)utu.fi",
     "phone": "",
     "url": "https://mijailfigo.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A social scientist interested in inequalities in working while studying trajectories in Higher Education and the impact on educational and labour market outcomes. Methodologically, my research is shaped by the life course perspective.",
     "location": {
       "adress": "",
       "postalCode": "",
@@ -48,13 +48,13 @@
     {
       "institution": "Autonomous University of Barcelona",
       "location": "Catalonia, Spain",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.uab.cat",
       "area": "Sociology",
       "studyType": "PhD",
-      "startDate": "",
+      "startDate": "2014-09-01",
       "endDate": "2019-06-11",
       "score": "",
-      "courses": [""]
+      "courses": ""
     }
   ],
   "awards": [
