@@ -4,7 +4,7 @@ title: Mapineq
 description: Mapping inequalities through the life course
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: current
 related_publications: true
 ---
 
