@@ -37,7 +37,7 @@ Engaging and informative external communication amplifies the project’s impact
     </div>
 </div>
 <div class="caption">
-    Mapineq newsletter 2nd edition.
+    Mapineq newsletter, 2nd edition.
 </div>
 
 {% raw %}
