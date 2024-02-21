@@ -6,7 +6,7 @@
     "email": "mfigon(at)utu.fi",
     "phone": "",
     "url": "https://mijailfigo.github.io/",
-    "summary": "A social scientist interested in inequalities in working while studying trajectories in Higher Education and the impact on educational and labour market outcomes. Methodologically, my research is shaped by the life course perspective.",
+    "summary": "A social scientist interested in inequalities in working while studying trajectories in higher education and their impact on educational and labor market outcomes.",
     "location": {
       "adress": "",
       "postalCode": "",
@@ -59,7 +59,7 @@
   ],
   "awards": [
     {
-      "title": "",
+      "title": "Postdoctoral Research Fellow",
       "date": "2023",
       "awarder": "European Commission",
       "url": "",
@@ -177,11 +177,11 @@
   ],
   "interests": [
     {
-      "name": "Social inequalities School-to-work transitions Working while studying",
-      "icon": "fa-solid fa-tag",
-      "name": "Social inequalities School-to-work transitions Working while studying",
+      "name": "Social inequalities",
       "icon": "fa-solid fa-tag",
       "keywords": [
+        "Working while studying",
+        "School-to-work transitions",
         "Student employment",
         "Higher Education",
         "Life course",
