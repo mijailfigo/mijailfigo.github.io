@@ -46,24 +46,24 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Autonomous University of Barcelona",
+      "location": "Catalonia, Spain",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Sociology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "",
+      "endDate": "2019-06-11",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "",
+      "date": "2023",
+      "awarder": "European Commission",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
@@ -150,27 +150,40 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Proficient",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Advanced",
+      "icon": ""
+    },
+     {
+      "language": "Catalan",
+      "fluency": "Advanced",
+      "icon": ""
+    },
+     {
+      "language": "German",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Social inequalities School-to-work transitions Working while studying",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Student employment",
+        "Higher Education",
+        "Life course",
+        "Sequence analysis"
       ]
     }
   ],
