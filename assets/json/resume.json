@@ -8,7 +8,7 @@
     "url": "https://mijailfigo.github.io/",
     "summary": "A social scientist interested in inequalities in working while studying trajectories in higher education and their impact on educational and labor market outcomes.",
     "location": {
-      "adress": "",
+      "address": "",
       "postalCode": "",
       "city": "Turku",
       "countryCode": "FI",
@@ -40,8 +40,8 @@
       "url": "https://www.uab.cat",
       "area": "",
       "studyType": "PhD in Sociology",
-      "startDate": "",
-      "endDate": "2019-06",
+      "startDate": "2014",
+      "endDate": "2019",
       "score": "",
       "courses": ""
     }
@@ -63,6 +63,20 @@
       "startDate": "2025",
       "endDate": "2027",
       "url": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Social inequalities",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Working while studying",
+        "School-to-work transitions",
+        "Student employment",
+        "Higher Education",
+        "Life course approach",
+        "Sequence analysis"
+      ]
     }
   ],
   "languages": [
@@ -90,20 +104,6 @@
       "language": "German",
       "fluency": "Intermediate",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Social inequalities",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Working while studying",
-        "School-to-work transitions",
-        "Student employment",
-        "Higher Education",
-        "Life course",
-        "Sequence analysis"
-      ]
     }
   ],
   "references": [
