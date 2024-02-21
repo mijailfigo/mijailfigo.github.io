@@ -8,18 +8,13 @@ category: current
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As a Project Manager, I assist the project coordinator in maintaining an overview of the project by monitoring the development of tasks and keeping our funding body informed.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Ensuring quality is a fundamental component of project management. I implement the quality assurance procedure for all the project’s deliverables, which involves an internal double-peer review process before submitting manuscripts to the European Commission.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Excellent internal communication is a key element towards achieving the project’s objectives. I ensure the ongoing synergy of the team by coordinating an online consortium meeting every three weeks and organizing biannual in-person consortium meetings.
+
+Engaging and informative external communication amplifies the project’s impact. I maintain oversight of the project’s communication efforts, which encompass our website, as well as social media platforms like Twitter and LinkedIn, in addition to our biannual newsletter. I ensure that each message is aligned with our visual identity and crafted not just to inform but to resonate. Every message is also meant to enhance team members’ sense of pride in being part of the project.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
