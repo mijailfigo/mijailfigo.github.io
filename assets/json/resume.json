@@ -28,7 +28,7 @@
       "position": "Project manager, Mapineq",
       "url": "https://mapineq.eu/project-management-and-communication/",
       "startDate": "2023-01-01",
-      "endDate": "",
+      "endDate": " ",
       "summary": "",
       "highlights": ["Project management", "Communication"] 
     }
@@ -38,10 +38,10 @@
       "institution": "Autonomous University of Barcelona",
       "location": "Catalonia, Spain",
       "url": "https://www.uab.cat",
-      "area": "Sociology",
-      "studyType": "PhD",
-      "startDate": "2014-09-01",
-      "endDate": "2019-06-11",
+      "area": "",
+      "studyType": "PhD in Sociology",
+      "startDate": "",
+      "endDate": "2019-06",
       "score": "",
       "courses": ""
     }
@@ -60,8 +60,8 @@
       "name": "GROW",
       "summary": "",
       "highlights": ["Working while studying", "Higher education"],
-      "startDate": "2025-09-01",
-      "endDate": "2027-08-31",
+      "startDate": "2025",
+      "endDate": "2027",
       "url": ""
     }
   ],
