@@ -4,7 +4,7 @@ title: GROW
 description: High Gains, high Risks, for whom?
 img: assets/img/12.jpg
 importance: 2
-category: work
+category: forthcoming
 giscus_comments: true
 ---
 
