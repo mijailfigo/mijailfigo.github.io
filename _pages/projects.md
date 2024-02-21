@@ -5,7 +5,7 @@ permalink: /projects/
 description: Coming soon...
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: [current, forthcoming]
 horizontal: false
 ---
 
@@ -18,7 +18,7 @@ horizontal: false
     <h2 class="category">{{ category }}</h2>
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" | slice: 0, 2 %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" | slice: 0, 1 %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" | slice: 0, 0 %}
+{% assign sorted_projects = site.projects | sort: "importance" | slice: 0, 1 %}
 
   <!-- Generate cards for each project -->
 
