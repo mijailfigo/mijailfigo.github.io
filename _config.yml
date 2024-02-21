@@ -469,12 +469,12 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
+#  - publications
   - projects
   - awards
-  - certificates
+#  - certificates
   - skills
   - languages
   - interests
-  - references
+#  - references
 
