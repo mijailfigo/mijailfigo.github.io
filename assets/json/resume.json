@@ -179,6 +179,8 @@
     {
       "name": "Social inequalities School-to-work transitions Working while studying",
       "icon": "fa-solid fa-tag",
+      "name": "Social inequalities School-to-work transitions Working while studying",
+      "icon": "fa-solid fa-tag",
       "keywords": [
         "Student employment",
         "Higher Education",
@@ -201,12 +203,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "GROW",
+      "summary": "",
+      "highlights": ["Working while studying", "Higher education"],
+      "startDate": "2025-09-01",
+      "endDate": "2027-08-31",
+      "url": ""
     }
   ]
 }
