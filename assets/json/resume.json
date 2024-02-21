@@ -28,7 +28,7 @@
       "position": "Project manager, Mapineq",
       "url": "https://mapineq.eu/project-management-and-communication/",
       "startDate": "2023-01-01",
-      "endDate": " ",
+      "endDate": "",
       "summary": "",
       "highlights": ["Project management", "Communication"] 
     }
@@ -40,8 +40,8 @@
       "url": "https://www.uab.cat",
       "area": "",
       "studyType": "PhD in Sociology",
-      "startDate": "2014",
-      "endDate": "2019",
+      "startDate": "2014-09-01",
+      "endDate": "2019-06-11",
       "score": "",
       "courses": ""
     }
@@ -49,7 +49,7 @@
   "awards": [
     {
       "title": "Postdoctoral Research Fellow",
-      "date": "2023",
+      "date": "2023-02-12",
       "awarder": "European Commission",
       "url": "",
       "summary": ""
