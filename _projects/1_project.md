@@ -5,7 +5,7 @@ description: Mapping inequalities through the life course
 img: assets/img/10.jpg
 importance: 1
 category: current
-related_publications: true
+related_publications: false
 ---
 
 As a Project Manager, I assist the project coordinator in maintaining an overview of the project by monitoring the development of tasks and keeping our funding body informed.
