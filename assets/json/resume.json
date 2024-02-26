@@ -174,11 +174,21 @@
       "name": "Social inequalities",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Working while studying",
         "School-to-work transitions",
-        "Student employment",
-        "Higher Education",
-        "Life course approach",
+        "Student employment"
+      ]
+    },
+    {
+      "name": "Higher Education",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Working while studying"
+      ]
+    },
+    {
+      "name": "Life course approach",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
         "Sequence analysis"
       ]
     }
