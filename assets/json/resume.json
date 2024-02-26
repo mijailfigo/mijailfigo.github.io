@@ -94,8 +94,30 @@
       "url": "https://www.uab.cat",
       "area": "",
       "studyType": "PhD in Sociology",
-      "startDate": "2014",
-      "endDate": "2019",
+      "startDate": "2014-09",
+      "endDate": "2019-06",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "University of Guadalajara",
+      "location": "Guadalajara, Mexico",
+      "url": "https://www.udg.mx",
+      "area": "",
+      "studyType": "Management and Policies in Higher Education, MSc",
+      "startDate": "2010-08",
+      "endDate": "2012-06",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "University of Guadalajara",
+      "location": "Guadalajara, Mexico",
+      "url": "https://www.udg.mx",
+      "area": "",
+      "studyType": "Psychology, BA",
+      "startDate": "2010-08",
+      "endDate": "2012-06",
       "score": "",
       "courses": ""
     }
