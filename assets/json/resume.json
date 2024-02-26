@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Mijail Figueroa González",
-    "label": "Sociologist",
+    "label": "",
     "image": "",
     "email": "mfigon(at)utu.fi",
     "phone": "",
-    "url": "https://mijailfigo.github.io/",
-    "summary": "A social scientist interested in inequalities in working while studying trajectories in higher education and their impact on educational and labor market outcomes.",
+    "url": "",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Turku",
-      "countryCode": "FI",
+      "city": "",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
@@ -106,6 +106,44 @@
       "date": "2024",
       "awarder": "European Commission",
       "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Mobilty award",
+      "date": "2018",
+      "awarder": "SEBAP, Societat Econòmica Barcelonesa d'Amics del País",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Australian Awards | Endeavour Research Fellowship",
+      "date": "2018",
+      "awarder": "Australian Department of Education and Training",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Iberoamerican Research Grant",
+      "date": "2017",
+      "awarder": "Santander Bank",
+      "url": "",
+      "summary": "Declined"
+    },
+    {
+      "title": "Grant for the recruitment of early-stage research staff",
+      "date": "2014",
+      "awarder": "Government of Catalonia ",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "affiliations": [
+    {
+      "name": "Institute for Advanced Studies, Vienna, Austria",
+      "position": "Postdoctoral Fellow",
+      "url": "",
+      "startDate": "2014-09",
+      "endDate": "2017-08",
       "summary": ""
     }
   ],
