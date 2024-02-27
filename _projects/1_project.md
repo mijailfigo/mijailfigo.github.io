@@ -36,7 +36,7 @@ Engaging and informative external communication amplifies the project’s impact
         {% include figure.liquid path="assets/img/newsletter_mapineq.png" title="Mapineq newsletter" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/x_post.png" title="post on x image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/x_post.jpg" title="post on X" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
