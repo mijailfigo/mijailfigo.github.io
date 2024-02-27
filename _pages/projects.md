@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Coming soon...
+description: Where my focus is on
 nav: true
 nav_order: 3
 display_categories: [current, forthcoming]
