@@ -12,13 +12,13 @@ Across Europe, 11 million university students (80%) combine their studies with p
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="waitress" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="food delivery" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="bar tender" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -26,15 +26,14 @@ Across Europe, 11 million university students (80%) combine their studies with p
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/21.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/21.jpg" title="frustration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    
+    The one side of the story we know the best: "work is hard for studies".
 </div>
 
 The project includes an ambitious dissemination and communication plan targeting academic scholars, policy makers, managers of European Higher Education, and Higher Education Students. As such, the GROW project aims at strengthening the Social Dimension of the European Higher Education Area and contributes to the UN Sustainable Development Goals 4 (quality education) and 10 (reduce inequality).
-
 
 {% raw %}
 
