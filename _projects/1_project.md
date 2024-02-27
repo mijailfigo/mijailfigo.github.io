@@ -31,13 +31,16 @@ Excellent internal communication is a key element towards achieving the project�
 
 Engaging and informative external communication amplifies the project’s impact. I maintain oversight of the project’s communication efforts, which encompass our website, as well as social media platforms like Twitter and LinkedIn, in addition to our biannual newsletter. I ensure that each message is aligned with our visual identity and crafted not just to inform but to resonate. Every message is also meant to enhance team members’ sense of pride in being part of the project.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/newsletter_mapineq.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/x_post.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Mapineq newsletter, 2nd edition.
+
 </div>
 
 {% raw %}
