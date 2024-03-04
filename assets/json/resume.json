@@ -124,24 +124,24 @@
   ],
   "awards": [
     {
-      "title": "Postdoctoral Research Fellowship",
-      "date": "2024",
+      "title": "MSCA Postdoctoral Fellowship",
+      "date": "2023",
       "awarder": "European Commission",
-      "url": "",
+      "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/news/marie-sklodowska-curie-actions-award-eu260-million-to-postdoctoral-researchers-in-2023",
       "summary": ""
     },
     {
       "title": "Mobilty award",
-      "date": "2018",
+      "date": "2017",
       "awarder": "SEBAP, Societat Econòmica Barcelonesa d'Amics del País",
-      "url": "",
+      "url": "https://www.amicsdelpais.com/ca/premis-i-beques/beques_de_mobilitat_per_a_joves_investigadors/13/",
       "summary": ""
     },
     {
       "title": "Australian Awards | Endeavour Research Fellowship",
-      "date": "2018",
+      "date": "2017",
       "awarder": "Australian Department of Education and Training",
-      "url": "",
+      "url": "https://internationaleducation.gov.au/scholarships/Scholarships-and-Fellowships/Pages/default.aspx",
       "summary": ""
     },
     {
@@ -153,9 +153,9 @@
     },
     {
       "title": "Grant for the recruitment of early-stage research staff",
-      "date": "2014",
+      "date": "2013",
       "awarder": "Government of Catalonia ",
-      "url": "",
+      "url": "https://agaur.gencat.cat/en/beques-i-ajuts/convocatories-per-temes/Ajuts-Joan-Oro-per-a-la-contractacio-de-personal-investigador-predoctoral-en-formacio-FI-2024",
       "summary": ""
     }
   ],
@@ -164,9 +164,9 @@
       "name": "GROW",
       "summary": "",
       "highlights": ["Working while studying", "Higher education"],
-      "startDate": "2025",
-      "endDate": "2027",
-      "url": ""
+      "startDate": "01-09-2025",
+      "endDate": "01-08-2027",
+      "url": "https://mijailfigo.github.io/projects/2_project/"
     }
   ],
   "interests": [
