@@ -36,7 +36,7 @@ Regarding the more sincere backstory of my academic trajectory, a 3-year doctora
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/video/nachtwacker.mov" title="" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/video/nachtwaker.mov" title="" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/nachtwaker_2.jpeg" title="" class="img-fluid rounded z-depth-1" %}
