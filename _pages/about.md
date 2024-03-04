@@ -25,15 +25,6 @@ I hold a Ph.D. in Sociology from the Autonomous University of Barcelona (2019), 
 
 Regarding the more sincere backstory of my academic trajectory, a 3-year doctoral contract pushed me to apply for funding to finish my dissertation. However, it wasn't enough. During the last year of my Ph.D., I also worked one night a week helping the brewer at the famous brewery of the ostrich in Amsterdam (Brouwerij 't IJ).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nachtwaker.jpeg" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    At the brewery.
-</div>
-
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid path="assets/video/nachtwaker.mov" title="" class="img-fluid rounded z-depth-1" %}
