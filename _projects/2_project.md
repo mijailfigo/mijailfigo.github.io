@@ -35,6 +35,18 @@ Across Europe, 11 million university students (80%) combine their studies with p
 
 The project includes an ambitious dissemination and communication plan targeting academic scholars, policy makers, managers of European Higher Education, and Higher Education Students. As such, the GROW project aims at strengthening the Social Dimension of the European Higher Education Area and contributes to the UN Sustainable Development Goals 4 (quality education) and 10 (reduce inequality).
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/1_EN-Funded by the EU-POS.png" title="Funded by the EU" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
+
 {% raw %}
 
 
