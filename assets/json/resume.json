@@ -33,6 +33,15 @@
       "highlights": [] 
     },
     {
+      "name": "Relocation break",
+      "position": "",
+      "url": "",
+      "startDate": "2022-06",
+      "endDate": "2022-12",
+      "summary": "My partner and I decided to move to Vienna because she received an individual grant that provided us with a longer-term perspective. During this break, I dedicated myself to intensive study of German (reaching B1 level), spent a month visiting my family in Mexico (after not seeing them for 3.5 years), developed new networks in the city (currently I am an affiliated fellow at the Institute for Advanced Studies), and spent more time with my child.",
+      "highlights": [] 
+    },
+    {
       "name": "Diversity & Inclusion Office | Erasmus Universiteit Rotterdam",
       "position": "Postdoctoral Researcher",
       "url": "",
@@ -86,6 +95,17 @@
       "summary": "",
       "highlights": [] 
     }
+  ],
+  "affiliation": [
+    {
+      "name": "Intsitute for Advanced Studies, Vienna, Austria",
+      "position": "Postdoctoral fellow",
+      "url": "https://mapineq.eu/project-management-and-communication/",
+      "startDate": "2022-10",
+      "endDate": "",
+      "summary": "",
+      "highlights": [] 
+    },
   ],
   "education": [
     {
@@ -166,7 +186,7 @@
       "highlights": ["Working while studying", "Higher education"],
       "startDate": "01-09-2025",
       "endDate": "01-08-2027",
-      "url": "https://mijailfigo.github.io/projects/2_project/"
+      "url": "https://mijailfigo.github.io/projects/grow/"
     }
   ],
   "interests": [
