@@ -468,7 +468,6 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
-  - affiliation
   - education
   - projects
   - awards
