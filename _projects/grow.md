@@ -32,7 +32,7 @@ GROW will be implemented starting from September 2025 and will last for two year
     </div>
 </div>
 
-The project includes an ambitious dissemination and communication plan targeting academic scholars, policy makers, managers of European Higher Education, and Higher Education Students. As such, the GROW project aims at strengthening the Social Dimension of the European Higher Education Area and contributes to the UN Sustainable Development Goals 4 (quality education) and 10 (reduce inequality).
+The project includes an ambitious dissemination and communication plan targeting academic scholars, policy makers, managers of European Higher Education, and Higher Education Students. As such, the GROW project aims at strengthening the [Social Dimension](https://ehea.info/page-social-dimension) of the European Higher Education Area and contributes to the UN Sustainable Development Goals 4 ([quality education](https://www.un.org/sustainabledevelopment/education/)) and 10 ([reduce inequality](https://www.un.org/sustainabledevelopment/inequality/).
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
