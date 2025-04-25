@@ -36,9 +36,11 @@ The project includes an ambitious dissemination and communication plan targeting
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
+         <a href="https://doi.org/10.3030/101147263" target="_blank">
         {% include figure.liquid path="assets/img/1_EN-Funded by the EU-POS.png" title="Funded by the EU" class="img-fluid rounded z-depth-1" %}
+             </a>
+        </div>
     </div>
-</div>
 
 {% raw %}
 
