@@ -3,8 +3,8 @@ layout: page
 title: GROW
 description: High Gains, high Risks, for whom? A holistic approach to the inequalities Of Working while studying trajectories
 img: assets/img/20.jpg
-importance: 2
-category: forthcoming
+importance: 1
+category: current
 giscus_comments: false
 ---
 
