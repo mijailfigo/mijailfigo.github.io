@@ -3,8 +3,8 @@ layout: page
 title: Mapineq
 description: Mapping inequalities through the life course
 img: assets/img/10.jpg
-importance: 1
-category: current
+importance: 2
+category: past
 related_publications: false
 ---
 
